@@ -21,8 +21,8 @@
 title: Staq Blog
 email: matt@staqjs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Javascript library for building Software-as-a-Service (SaaS)
-  businesses.
+  Staq is a Javascript library for building Software-as-a-Service
+  (SaaS) businesses.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
