@@ -2,7 +2,7 @@
 
 **2020-08-09**
 
-In the first half of 2020, I built three web applications. They all used the same stack: React and Firebase. The combination of these two tools is the fastest way I know of for building out prototypes for web applications.
+In the first half of 2020, I built three web applications. They all used the same stack: React and Firebase. The combination of these two tools is the fastest way I know how to build out prototypes for web app ideas.
 
 But I noticed something frustrating while building these three projects. I had to write a bunch of the same code for each one. In fact, I found myself straight up copying files from the first project to the other two. And the code I was copying was code that has to exist in one form or another in just about every web application out there: components and logic for handling users, helper functions for interacting with the database, backend logic for managing subscription billing, and standard components like the landing page and footer.
 
