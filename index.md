@@ -1,4 +1,4 @@
-# Subscription Billing with Stripe Customer Portal and Firebase Functions
+# Subscription Billing with Stripe Customer Portal and Firebase Functions {#billing-2020-08-15}
 
 **2020-08-15**
 
