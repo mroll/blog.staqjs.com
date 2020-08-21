@@ -31,6 +31,8 @@ theme: jekyll-theme-minimal
 
 repository: mroll/blog.staqjs.com
 
+google_analytics: UA-176008409-2
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
